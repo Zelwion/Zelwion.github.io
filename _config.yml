@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "我有66.7%的概率醒着 <br> React Team @ Meta"
+sidebar-about-description: "我有66.7%的概率醒着 <br> Maybe not, though"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
